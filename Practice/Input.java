@@ -4,7 +4,7 @@ public class Input {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter a Integer : ");
     int num = sc.nextInt();
-    // Geting a Input as a Integer.
+    // Geting a Input as a Integer. 
 
     System.out.print("Enter a Character : ");
     char ch = sc.next().charAt(0);
