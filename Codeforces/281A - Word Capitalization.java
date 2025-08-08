@@ -1,3 +1,5 @@
+// https://codeforces.com/problemset/problem/281/A
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
